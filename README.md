@@ -2,7 +2,7 @@
 
 
 ## Description
-This is a JSP based landing page, for College Student Network like LinkedIn. This is a platform for the students of a college to interact and share what they are learning and to share their achievements. Here they can learn from their peers about their approach to learn the appropriate skills.  
+This is a Spring boot - JSP based landing page, for College Student Network like LinkedIn. This is a platform for the students of a college to interact and share what they are learning and and thier achievements. Here they can learn from their peers about their approach to learn the appropriate skills.  
   
   
   
@@ -14,7 +14,7 @@ You will need to have installed following on your pc.
   - Eclipse IDE
   - Tomcat Server
   - MySQL Workbench
-  - Servlets to connect MySQL and JSP
+  - Spring boot
 
 
 ## Functionalities
